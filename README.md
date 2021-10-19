@@ -43,8 +43,8 @@ Ex - Software Engineer at <a href="https://www.temenos.com/">Temenos India Pvt L
 <br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
-<p align="left">![GitHub stats](https://github-readme-stats.vercel.app/api?username=guplakshya&show_icons=true&count_private=true&include_all_commits=true&theme=radical)</p>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guplakshya&theme=radical&hide_border=true"/><br><br></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guplakshya&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guplakshya&theme=radical&hide_border=true"/><br><br>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>

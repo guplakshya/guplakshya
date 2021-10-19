@@ -43,8 +43,7 @@ Ex - Software Engineer at <a href="https://www.temenos.com/">Temenos India Pvt L
 <br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
-<p align="left"> 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guplakshya&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guplakshya&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guplakshya&theme=radical&hide_border=true"/><br><br>
 </p>
 
